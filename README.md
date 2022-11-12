@@ -2,12 +2,11 @@
 <h2 align="center">
   Hi there 👋, I'm Alba 
 </h2>
-
+<!--<a href="https://gpvc.arturio.dev/alba-ch"><img src="https://gpvc.arturio.dev/alba-ch" align="left" alt="Visits"></a>-->
 <p align="center">
   <a href="https://github.com/alba-ch"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Self%20Taught%20Front%20End%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<!--<a href="https://gpvc.arturio.dev/alba-ch"><img src="https://gpvc.arturio.dev/alba-ch" align="left" alt="Visits"></a>-->
 
 **About me**
 
@@ -72,7 +71,7 @@
     <br/>
      <p align="left">
       <a href="https://github.com/alba-ch/NewChance" target="_blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=NewChance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="newchance"></a>
-      <a href="https://github.com/alba-ch/Buy2Gether" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=Buy2Gether&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="buy2gether"></a>
+      <a href="https://github.com/alba-ch/pricing-panel" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=pricing-panel&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pricing panel"></a>
       <a href="https://github.com/alba-ch/AI-chess" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=AI-chess&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-chess"></a>
     </p>
     <a href="https://github.com/alba-ch?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/All_Repos-blueviolet?style=for-the-badge&logo=koding&logoColor=black"/></a>
@@ -92,8 +91,7 @@
 <a href="https://github.com/alba-ch/">
    <img src="https://komarev.com/ghpvc/?username=alba-ch" alt="visitors" />
 </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=alba-ch.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alba-ch.visitor-badge&title=Visits" align="left" alt="Visits"></a>
-  </p>
+
 
 <p align="center">
   <img src="https://github.com/alba-ch/alba-ch/blob/output/github-contribution-grid-snake.svg" alt="Sneak game"/>
