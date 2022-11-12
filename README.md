@@ -61,8 +61,8 @@
 <br>
 
 <p align="center">
-      <a href="https://github.com/alba-ch">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alba-ch&theme=radical&hide_border=true&background=1F222E" alt="Saif's GitHub streak"/>
+      <a href="https://github.com/alba-ch" height="192px" width="49.5%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alba-ch&theme=radical&hide_border=true&background=1F222E" alt="Alba's GitHub streak"/>
       </a>
       <a href="https://github.com/alba-ch"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alba-ch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     </p>
@@ -81,11 +81,11 @@
 <details>
   <summary>:zap:All Stats</summary>
     <a> 
-        <a href="https://github.com/alba-ch"><img alt="Alba Chicharro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alba-ch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+        <a href="https://github.com/alba-ch"><img alt="Alba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alba-ch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
       <br/>
     </a>
     <p></p>
-    <a href="https://github.com/alba-ch"><img alt="Alba Chicharro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alba-ch&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+    <a href="https://github.com/alba-ch"><img alt="Alba's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alba-ch&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 
   </details>
 <p>  
