@@ -71,7 +71,7 @@
     <br/>
      <p align="left">
       <a href="https://github.com/alba-ch/NewChance" target="_blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=NewChance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="newchance"></a>
-      <a href="https://github.com/alba-ch/pricing-panel" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=Buy2Gether&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Buy2Gether"></a>
+      <a href="https://github.com/alba-ch/Buy2Gether" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=Buy2Gether&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Buy2Gether"></a>
       <a href="https://github.com/alba-ch/AI-chess" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=AI-chess&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-chess"></a>
     </p>
     <a href="https://github.com/alba-ch?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/All_Repos-blueviolet?style=for-the-badge&logo=koding&logoColor=black"/></a>
