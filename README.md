@@ -10,10 +10,10 @@
 
 **About me**
 
-- 🔭 I am currently working on an AI chess
-- 🌱 I am now learning **Artifical Intelligence** and **Data Science**
+- 🔭 I am currently working on an ultrasound segmentation app!
+- 🌱 I am now learning **Deep Learning** and **Software Architecture**
 - 📲 I am very interested in **Software Design** and **Computer Vision**
-- 👨‍💻 I am in my third year of computer engineering
+- 👨‍💻 I am in my fourth year of computer engineering
 - 👯 I would like to collaborate on open source projects
 - 📫 How to reach me: albachcontact@gmail.com
 - 🚀 I also enjoy **UX/UI design** and **web development**!
