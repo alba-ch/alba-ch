@@ -13,7 +13,7 @@
 - 🔭 I am currently working on an ultrasound segmentation app!
 - 🌱 I am now learning **Deep Learning** and **Software Architecture**
 - 📲 I am very interested in **Software Design** and **Computer Vision**
-- 👨‍💻 I am in my fourth year of computer engineering
+- 👨‍💻 I am a software engineer since 2024!
 - 👯 I would like to collaborate on open source projects
 - 📫 How to reach me: albachcontact@gmail.com
 - 🚀 I also enjoy **UX/UI design** and **web development**!
