@@ -66,7 +66,7 @@
       <a href="https://github.com/alba-ch"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alba-ch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
     </p>
 
-<details>
+
   <summary>📘 My Top Projects </summary>
     <br/>
      <p align="left">
@@ -75,7 +75,7 @@
       <a href="https://github.com/alba-ch/AI-chess" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alba-ch&repo=AI-chess&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-chess"></a>
     </p>
     <a href="https://github.com/alba-ch?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/All_Repos-blueviolet?style=for-the-badge&logo=koding&logoColor=black"/></a>
-</details>
+
 
 <details>
   <summary>:zap:All Stats</summary>
