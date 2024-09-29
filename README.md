@@ -4,7 +4,7 @@
 </h2>
 <!--<a href="https://gpvc.arturio.dev/alba-ch"><img src="https://gpvc.arturio.dev/alba-ch" align="left" alt="Visits"></a>-->
 <p align="center">
-  <a href="https://github.com/alba-ch"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Self%20Taught%20Front%20End%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/alba-ch"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Graduated;Self%20Taught%20Front%20End%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
